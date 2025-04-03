@@ -20,7 +20,6 @@ A simple Java-based Library Management System to manage books, users, and transa
 3. Configure `LMS.accdb` in the database connection.
 
 # Contributors
-- [Antra](https://github.com/antra-dodeja)
 - Team Members: Antra, Divya, Mukesh
 
 
